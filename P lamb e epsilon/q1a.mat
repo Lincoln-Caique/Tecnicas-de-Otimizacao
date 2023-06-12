@@ -1,0 +1,37 @@
+# Created by Octave 8.2.0, Wed Jun 07 09:18:53 2023 -03 <lincoln@lenovo>
+# name: xopt1
+# type: matrix
+# rows: 2
+# columns: 1
+ 2.9999999919649749
+ 1.9999999937008597
+
+
+# name: xopt2
+# type: matrix
+# rows: 2
+# columns: 1
+ -3.4570500897518883
+ 1.5174802660266036
+
+
+# name: f1max
+# type: scalar
+19.767042697094027
+
+
+# name: f1min
+# type: scalar
+10
+
+
+# name: f2max
+# type: scalar
+50.499999916967226
+
+
+# name: f2min
+# type: scalar
+4.4096790907139019
+
+
